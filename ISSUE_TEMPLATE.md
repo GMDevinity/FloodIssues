@@ -1,7 +1,7 @@
 [//]: # (----Bug Template Info Start----)
 [//]: # (Remove this section before posting. Remove this entire template if you're not reporting a bug)
 [//]: # (!!!!Gather as much evidence as you can. There will often be a lua error somewhere,)
-[//]: # (either in your console or in the server console (can be reached using the ServerCP)!!!!)
+[//]: # (either in your console or in the server console, which can be reached using the ServerCP)
 [//]: # (----Bug Template Info End----)
 
 ### Description of bug
